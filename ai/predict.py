@@ -4,7 +4,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
 
 def predict_sales():
-    # 1️⃣ Create clean synthetic data
+    # 1 Create clean synthetic data
     # quantity from 1 to 10, total_price = quantity * 1000
     data = {
         'quantity': list(range(1, 11)),
