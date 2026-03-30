@@ -18,17 +18,17 @@ It demonstrates how raw data can be transformed into meaningful insights and pre
 
 ## Project Workflow
 
-### 1 ETL Process
+### 1. ETL Process
 - Extract data from source files
 - Transform and clean data
 - Load into SQLite database
 
-### 2 SQL Analysis
+### 2. SQL Analysis
 - Total sales by product
 - Top-selling products
 - Aggregations using groupby
 
-### 3 AI Prediction
+### 3. AI Prediction
 - Linear Regression model
 - Predicts total sales based on quantity
 
