@@ -1,0 +1,11 @@
+order_id,product,category,quantity,price,date
+1,Phone,Electronics,2,20000,10-01-2023
+2,Laptop,Electronics,1,50000,12-01-2023
+3,Shoes,Fashion,3,2000,15-01-2023
+4,Shirt,Fashion,2,1500,18-01-2023
+5,Headphones,Electronics,4,1500,01-02-2023
+6,Watch,Accessories,1,3000,05-02-2023
+7,Bag,Accessories,2,2500,10-02-2023
+8,Phone,Electronics,1,22000,15-02-2023
+9,Shoes,Fashion,2,1800,20-02-2023
+10,Laptop,Electronics,1,52000,25-02-2023
